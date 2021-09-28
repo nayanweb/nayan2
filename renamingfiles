@@ -1,0 +1,5 @@
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Pictures/Camera Roll$ ls
+barah.txt  boruah.txt  countries.txt  desktop.ini  hazarika.txt  hello.txt  hi.txt  me.txt  oceans.txt  saikia.txt  sampu.txt  world.txt  yoo.txt
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Pictures/Camera Roll$ rename 's/txt/pdf/' *.txt
+nayan@DESKTOP-IJOFCL0:/mnt/c/Users/user/OneDrive/Pictures/Camera Roll$ ls
+barah.pdf  boruah.pdf  countries.pdf  desktop.ini  hazarika.pdf  hello.pdf  hi.pdf  me.pdf  oceans.pdf  saikia.pdf  sampu.pdf  world.pdf  yoo.pdf
